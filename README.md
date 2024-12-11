@@ -1,24 +1,21 @@
-Summary:
-History and Milestones:
+Project Name: Redesign of the Department of Motor Traffic User Interface
 
-The department's origins trace back to the Act No. 14 of 1916, focusing on vehicle registration and driving licenses.
-Significant milestones include the Motor Traffic Ordinance No. 20 of 1927 and the Motor Traffic Act No. 14 of 1951.
-The department now operates through its head office in Narahenpita and several district offices.
-Objectives and Values:
+Description:
+This project focused on redesigning the web interface for the Department of Motor Traffic to improve user experience, accessibility, and operational efficiency. The primary goal was to create a modern, intuitive, and responsive design that addresses the needs of diverse users, including citizens seeking services related to vehicle registration, driving licenses, and other motor traffic-related operations.
 
-The primary objective is to provide efficient and effective service as mandated by the Motor Traffic Act.
-Core values include public appreciation, efficiency, customer satisfaction, and employee motivation.
-Services Offered:
+Key Features:
 
-Vehicle Services: Registration of new vehicles, transfer of ownership, conversion of vehicle classes, fuel conversion, and vehicle emission testing.
-Driving Licenses: Issuance, renewal, and extension of driving licenses, including conversion of foreign licenses and obtaining duplicates.
-Additional Services: Registration of vehicle dealers, prototypes, garages, and obtaining details of registered vehicles.
-Online Services and Modernization:
+User-Centered Design: Streamlined navigation for easy access to services such as vehicle registration, license renewal, and ownership transfers.
+Enhanced Accessibility: A clean, responsive layout optimized for both desktop and mobile users.
+Informational Resources: Clear presentation of department mandates, policies, and historical milestones.
+Interactive E-Services: Simplified access to essential online services, including emission testing, vehicle details, and registration enquiries.
+Tools & Technologies Used:
 
-Emphasis on modern facilities and technology to improve service delivery.
-Online connectivity among district offices to facilitate better customer service.
-Regulatory Framework:
+Design & Prototyping: Figma
+Focus Areas: UX/UI redesign, accessibility improvements, and service optimization
+Key Achievements:
 
-The department operates under the Motor Traffic Act and related legislation.
-It aims to ensure road safety, eco-friendly vehicle usage, and efficient regulation of motor traffic in Sri Lanka.
-This document appears to be a detailed guide for users of the Department of Motor Traffic, providing them with all necessary information regarding its services and operations.
+Improved clarity and usability through intuitive design elements.
+Enhanced user satisfaction by making critical information and forms easily discoverable.
+Strengthened alignment with modern web standards for governmental websites.
+This redesign showcases my ability to conceptualize and execute meaningful improvements for public service platforms, demonstrating expertise in UX design and prototyping.
